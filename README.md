@@ -1,6 +1,5 @@
 # Network-Script
 
-
-Try to modify the Ip Address and the Port 
+ths scripts for pentest your FTP server
 
 
